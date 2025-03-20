@@ -1,0 +1,24 @@
+{
+  "name": "docker-hot-reload",
+  "version": "1.0.0",
+  "description": "Aplicação para teste de técnica de Hot-reload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dellabeneta/docker-hot-reload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dellabeneta/docker-hot-reload/issues"
+  },
+  "homepage": "https://github.com/dellabeneta/docker-hot-reload#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
