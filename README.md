@@ -22,7 +22,7 @@ docker build -t besta:v1 .
 OU
 
 ```
-Docker run -d -p 3000:3000 dellabeneta/besta:v1
+docker run -d -p 3000:3000 dellabeneta/besta:v1
 ```
 
 Agora só abrir no seu browser em: http://localhost:3000 e ficar como um idiota dando refresh na página.
